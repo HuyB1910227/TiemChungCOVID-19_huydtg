@@ -1,0 +1,31 @@
+header{
+  
+    
+    -webkit-backdrop-filter: blur(500px);
+    backdrop-filter: blur(500px);
+  
+    box-shadow: 0px 2px 10px rgb(223, 223, 223);
+}
+
+
+
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(44, 44, 44);
+    font-size: 20px;
+   
+    
+    
+}
+.dropdown-item {
+    font-size: 20px;
+}
+
+
+.navbar-light .navbar-brand{
+    font-size: 25px;
+    color: dodgerblue;
+    text-shadow: 1px 1px 1px rgb(121, 183, 245);
+    font-weight: 600;
+}
